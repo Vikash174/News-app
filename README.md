@@ -1,6 +1,7 @@
 # News-app
 This app shows the current breaking news.
 We can search and save news article. 
+We can delete an article by swapping left or right.
 
 
 
