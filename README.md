@@ -1,9 +1,7 @@
 # News-app
-This app shows the current breaking news.
-We can search and save news article. 
-We can delete an article by swapping left or right.
+This app shows the current breaking news. We can search and save news articles. We can delete an article by swapping left or right.
 
-It get the article from NewsApi website's api using retrofit.
+It gets the article from the NewsApi website's API using a retrofit.
 
 
 
